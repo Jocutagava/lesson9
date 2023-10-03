@@ -12,7 +12,7 @@ this is unordered list:
   
 ```javascript
 
-let str = 'this is js code';
+let str = 'this is js code'; 
 
 ```
 
