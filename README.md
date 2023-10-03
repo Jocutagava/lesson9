@@ -2,9 +2,7 @@
 
 ### my name is cat
 
-![this is img]([https://avatars.githubusercontent.com/u/120802575?v=4](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nationalgeographic.com%2Fanimals%2Fmammals%2Ffacts%2Fdomestic-cat&psig=AOvVaw1U04JJ142hKZVUlNDdyUd8&ust=1696422528118000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICTnsPw2YEDFQAAAAAdAAAAABAE))
-
-
+![my photo](https://user-images.githubusercontent.com/60629407/139448835-f652c6bd-02bf-4654-8e25-9d947acf7581.png)
 
 **I'm javascript developer**  *There is example of my code:*
 
