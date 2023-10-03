@@ -1,20 +1,33 @@
-# This is a h1 Tag
-## This is a h2 Tag
-###### This is a h6 Tag
+# This is my repository
 
-**this text will  be bold**
-*this text will be italic*
+###my name is cat
 
-this is unordered list:
-* Item1
-* item 2
-  *item 2 a
-  
+![this is img]([https://avatars.githubusercontent.com/u/120802575?v=4](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nationalgeographic.com%2Fanimals%2Fmammals%2Ffacts%2Fdomestic-cat&psig=AOvVaw1U04JJ142hKZVUlNDdyUd8&ust=1696422528118000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICTnsPw2YEDFQAAAAAdAAAAABAE))
+
+
+
+**I'm javascript developer**  *There is example of my code:*
+
 ```javascript
 
-let str = 'this is js code'; 
+let isAlive = true;
 
+do{
+code()
+}
+
+while(isAlive);
+
+function code(){
+alert("hello world");
+}
 ```
 
-[this is link](https://github.com/Jocutagava/lesson9/edit/main/README.md)
-![this is img](https://avatars.githubusercontent.com/u/120802575?v=4)
+My socials:
+* [my facebook](#)
+* [my website](#)
+* [my telegramm](#)
+  
+
+
+
